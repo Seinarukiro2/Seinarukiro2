@@ -2,7 +2,7 @@
 
 ## Fullstack Developer
 
-I work with full-stack web development for more than 3 years, and I also frequently engage in AI-powered projects. I love creating something new! My mind is constantly buzzing with ideas, which is why I have a lot of hidden repositories where I've haphazardly attempted to bring those ideas to life :D
+I work with full-stack web development for more than 5 years, and I also frequently engage in AI-powered projects. I love creating something new! My mind is constantly buzzing with ideas, which is why I have a lot of hidden repositories where I've haphazardly attempted to bring those ideas to life :D
 
 * 🌍 I'm based in Munich, Germany
 * ✉️ You can contact me at [seinarukiro@gmail.com](mailto:seinarukiro@gmail.com)
