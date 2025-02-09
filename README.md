@@ -28,21 +28,3 @@ I work with full-stack web development for more than 5 years, and I also frequen
 </p>
 
 
-### Socials
-<p align="left">
-  <a href="https://www.github.com/Seinarukiro2" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dzhandzhhava" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
-
-### Support Me
-<ul style="list-style-type: none; margin: 0;">
-  <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.buymeacoffee.com/seinarukiro">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-    </a>
-  </li>
-</ul>
